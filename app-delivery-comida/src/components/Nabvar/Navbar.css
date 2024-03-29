@@ -48,12 +48,12 @@
 
 }
 
-.navbar-search-icon .dot{
+.navbar-search-icon .dot {
     position: absolute;
     min-width: 10px;
     min-height: 10px;
     background-color: tomato;
     border-radius: 5px;
     top: -8px;
-    right: -8;
+    right: -8px;
 }
