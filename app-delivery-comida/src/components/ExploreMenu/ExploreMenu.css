@@ -1,5 +1,5 @@
 .explore-menu{
-    margin: 30px 30px;
+    margin: 30px 100px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -7,11 +7,11 @@
 
 .explore-menu h1{
     color: #262626;
-    font-weight: 500;
+    font-weight: 5500;
 }
 
 .explore-menu-text{
-    max-width: 60%;
+    max-width: 70%;
     color: #808080;
 }
 
