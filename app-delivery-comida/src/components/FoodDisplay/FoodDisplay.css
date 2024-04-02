@@ -12,3 +12,9 @@
     gap: 30px;
     row-gap: 50px;
 }
+
+@media (max-width:1050px){
+    .food-display{
+        margin: 0px 50px;
+    }
+}

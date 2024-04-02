@@ -59,7 +59,11 @@
 }
 
 @media (max-width:1050px){
+    .explore-menu{
+        margin: 0px 40px;
+    }
     .explore-menu-text{
+        
         max-width: 100%;
         font-size: 14px;
     }
