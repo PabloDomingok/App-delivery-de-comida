@@ -8,21 +8,23 @@
 }
 body{
   min-height: 100vh;
+  
 }
 a{
   text-decoration: none;
   color: inherit;
 }
 .app{
-  width: 80;
+  width: 100%;
   margin: auto;
+  overflow-x: hidden;
 }
 @keyframes  fadeIn{
   0%{
     opacity: 0;
   }
   100%{
-    opaciy:1;
+    opacity:1;
   }
   
 }
