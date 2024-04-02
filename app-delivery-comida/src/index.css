@@ -4,6 +4,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: Outfit;
+  scroll-behavior: smooth;
 }
 body{
   min-height: 100vh;
@@ -37,3 +38,4 @@ a{
       transform: translateX(0); /* Al final, regresa a la posición original */
   }
 }
+
