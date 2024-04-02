@@ -16,3 +16,24 @@ a{
   width: 80;
   margin: auto;
 }
+@keyframes  fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opaciy:1;
+  }
+  
+}
+@keyframes fadeInSlideIn {
+  0% {
+      opacity: 0; /* Inicia con opacidad 0 para fadeIn */
+      transform: translateX(-10%); /* Inicia con desplazamiento hacia la izquierda para slideIn */
+  }
+  50% {
+      opacity: 1; /* A mitad de camino, completamente visible */
+  }
+  100% {
+      transform: translateX(0); /* Al final, regresa a la posición original */
+  }
+}
