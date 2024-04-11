@@ -50,10 +50,10 @@
 
 .navbar-search-icon .dot {
     position: absolute;
-    min-width: 10px;
-    min-height: 10px;
+    min-width: 12px;
+    min-height: 12px;
     background-color: tomato;
-    border-radius: 5px;
+    border-radius: 10px;
     top: -8px;
     right: -8px;
 }
